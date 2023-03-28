@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Morten - I work at GitHub as a Customer Success Architect. Helping customers get the full benefit of our fantastic platform!
+
+- 🐱 I’m currently working on an Open Source @ scale presentation
+- 🌱 I’m currently learning to play the guitar (not much progress)
+
+
 <!--
 **mortenp1337/mortenp1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
