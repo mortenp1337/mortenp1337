@@ -2,11 +2,6 @@
 
 I'm Morten - I work at GitHub as a Customer Success Architect. Helping customers get the full benefit of our fantastic platform!
 
-- 🐱 I’m currently working on an InnerSource presentation
-- 🌱 I’m currently learning to play the guitar (not much progress)
-- 👯 I'm always open to collaboration opportunities, especially if they involve exciting new projects or innovative ideas.
-- 🐦 Hit me up on [Twitter](https://twitter.com/mortenp1337), even though I'm not that active 
-
 
 <!--
 **mortenp1337/mortenp1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
